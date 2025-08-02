@@ -1,0 +1,17 @@
+.email__heading {
+    color: var(--mainColor);
+}
+
+.email__text {
+    color: var(--mainColor);
+}
+
+.email {
+    padding: 52px 0px 65px 0px;
+    background: var(--emailBgColor);
+}
+
+.email__content {
+    padding: 68px 0px 54px 0px;
+    background-color: var(--emailContentColor);
+}

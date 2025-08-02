@@ -1,0 +1,9 @@
+.page.theme_light {
+    --mainColor: #2A254B;
+    --linksColor:#726E8D;
+    --bgColor: #ffffff;
+    --emailBgColor:#F9F9F9;
+    --emailContentColor:#ffffff;
+    --heroBgColor: var(--mainColor);
+    --footerBgColor: var(--mainColor);
+}

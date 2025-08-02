@@ -1,0 +1,10 @@
+.page.theme_dark {
+    --mainColor: white;
+    --linksColor: var(--mainColor);
+    --bgColor: #000;
+    --emailBgColor: var(--bgColor);
+    --emailContentColor: var(--bgColor);
+    --heroBgColor: #68a59b;
+    --footerBgColor: #bd823e;
+}
+
