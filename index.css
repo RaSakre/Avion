@@ -6,6 +6,9 @@
     margin: 0 auto;
 }
 
+.container__p-0{
+    padding: 0px 0px;
+}
 .page {
     background-color: var(--bgColor);
 }
