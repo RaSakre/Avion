@@ -146,7 +146,7 @@
 
 @media (max-width: 992px) {
   .email__content {
-    margin: 0px -15px;
+    margin: 0px 0px;      
   }
 }
 .email__content-wrapper {
