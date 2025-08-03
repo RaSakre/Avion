@@ -144,11 +144,6 @@
   }
 }
 
-/* .container .email__content {
-  padding-right: 0px !important;
-  padding-left: 0px;
-} */
-
 @media (max-width: 992px) {
   .email__content {
     margin: 0px 0px;      
